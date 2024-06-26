@@ -2,8 +2,8 @@
 
 # EdgeHeart: Deep Learning Based Classification of Conduction Disorders in heart
 
-By [Salim Rukhsar<sup>[1]</sup><span>&#42;</span>](https://www.linkedin.com/in/salim-rukhsar-10845282/),
-[Sudhanshu Gaurhar<sup>[1]</sup><span>&#42;</span>](https://www.linkedin.com/in/sudhanshu-gaurhar-20253273/),
+By [Sudhanshu Gaurhar<sup>[1]</sup><span>&#42;</span>](https://www.linkedin.com/in/salim-rukhsar-10845282/),
+[Salim Rukhsar<sup>[1]</sup><span>&#42;</span>](https://www.linkedin.com/in/sudhanshu-gaurhar-20253273/),
 [Anil K. Tiwari<sup>[1]</sup><span>&#42;</span>](http://home.iitj.ac.in/~akt/),
 [Tushar S. Shinde<sup>[2]</sup><span>&#42;</span>](https://www.linkedin.com/in/tushar-shinde-phd/),
 
